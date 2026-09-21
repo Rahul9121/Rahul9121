@@ -292,8 +292,8 @@ An end-to-end credit-risk system: feature-engineered loan applications, a gradie
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul9121&show_icons=true&hide=stars&count_private=true&hide_border=true&border_radius=12&bg_color=0D1B2A&title_color=5FA8D3&icon_color=1B998B&text_color=C9D1D9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul9121&layout=compact&hide_border=true&border_radius=12&bg_color=0D1B2A&title_color=5FA8D3&text_color=C9D1D9" alt="Top languages" />
+<img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=Rahul9121&hide_border=true&border_radius=12&background=0D1B2A&ring=1B998B&fire=5FA8D3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5FA8D3&sideLabels=C9D1D9&dates=8B9BB0" alt="Contribution streak" />
 
